@@ -1,0 +1,9 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "b9e61eab68c7cf3cdc4f35cade5270ee"
+build_time: [509960387, 763367000]
+inputs:
+  "/Users/nikolay/Documents/FolderWorkObjective-C/Parsers/ParserKanna/Pods/Kanna/Source/libxml/libxmlHTMLDocument.swift": [509960318, 0]
+  "/Users/nikolay/Documents/FolderWorkObjective-C/Parsers/ParserKanna/Pods/Kanna/Source/CSS.swift": [509960318, 0]
+  "/Users/nikolay/Documents/FolderWorkObjective-C/Parsers/ParserKanna/Pods/Kanna/Source/libxml/libxmlHTMLNode.swift": [509960318, 0]
+  "/Users/nikolay/Documents/FolderWorkObjective-C/Parsers/ParserKanna/Pods/Kanna/Source/Kanna.swift": [509960318, 0]
+  "/Users/nikolay/Documents/FolderWorkObjective-C/Parsers/ParserKanna/Pods/Kanna/Source/libxml/libxmlParserOption.swift": [509960318, 0]

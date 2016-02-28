@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/nikolay/Documents/FolderWorkObjective-C/Parsers/ParserKanna/DerivedData/ParserKanna/Build/Products/Debug-iphonesimulator/Kanna.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/nikolay/Documents/FolderWorkObjective-C/Parsers/ParserKanna/DerivedData/ParserKanna/Build/Intermediates/Pods.build/Debug-iphonesimulator/Kanna.build/unextended-module.modulemap',
+    }]
+  }]
+}
